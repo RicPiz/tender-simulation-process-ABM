@@ -10,5 +10,6 @@ The players' decision-making process is autonomous and is shaped by a number of 
 
 In this case, because it is a specific, repetitive, and not too dynamic context, we will assume that experience increases as well as risk aversion as time progresses. Being a highly competitive environment and characterized by imperfect information for agents, strategies will tend to conform in the long run, as participants by referring to previous winning bids, will make an adjustment on their bid future as indicated by the following formula:
 
-$\left( {1 - \frac{{\sum\limits_{i = 1}^N {\frac{{{b_i}}}{{{w_i}}}} }}{N}} \right) \cdot 100$
+<p style="text-align: center;">$\left( {1 - \frac{{\sum\limits_{i = 1}^N {\frac{{{b_i}}}{{{w_i}}}} }}{N}} \right) \cdot 100$</p>
+
 
