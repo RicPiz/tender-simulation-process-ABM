@@ -503,7 +503,7 @@ The tool used for building the experiment and running the simulation is the Beha
 
 ## EXTENDING THE MODEL
 
-The weight of certain effects in defined situations could be investigated, such as the effect of recourse, a very common practice that influences the performance of tenders, or the effect of different ratios of technical and economic offers within the OEPV award criterion, which would certainly require substantial modifications to bidding strategies.
+The weight of certain effects in defined situations could be investigated, such as the effect of recourse, a very common practice that influences the performance of tenders, or the effect of different ratios of technical and economic offers within the MEAT award criterion, which would certainly require substantial modifications to bidding strategies.
 
 ## CREDITS AND REFERENCES
 
